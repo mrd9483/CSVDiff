@@ -1,3 +1,3 @@
-export function csvDiff() {
-  console.log("This is a message from the demo package");
+module.exports = function csvDiff() {
+  return 5;
 }
