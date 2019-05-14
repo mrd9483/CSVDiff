@@ -1,0 +1,16 @@
+{
+  "name": "csv-diff",
+  "version": "1.0.0",
+  "description": "Diffs two csv files",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "author": "Matthew Doyle",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^5.16.0",
+    "mocha": "^6.1.4"
+  }
+}
